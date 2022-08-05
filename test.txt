@@ -1,2 +1,7 @@
 --amend
+<<<<<<< HEAD
 sshtest
+=======
+branchtest feature
+
+>>>>>>> f119e0037f412c77aceec16456fac204568631da
